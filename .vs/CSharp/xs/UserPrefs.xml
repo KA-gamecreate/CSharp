@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{AF93441A-9822-2A71-8137-65540B006A51}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PrefubStart.cs">
+    <Files>
+      <File FileName="Assets/publicmove.cs" Line="1" Column="1" />
+      <File FileName="Assets/privatemove.cs" Line="5" Column="25" />
+      <File FileName="Assets/method.cs" Line="21" Column="17" />
+      <File FileName="Assets/PrefubStart.cs" Line="10" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CSharp" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="PrefubStart.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="47db1ecc-84e2-4b70-9cb8-c1be95be1036" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
